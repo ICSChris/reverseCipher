@@ -1,5 +1,6 @@
 # Reverse Cipher
 # https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+# Changes by Chris Arnold
 
 message = input("Enter message: ") 
 translated = " "
